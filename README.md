@@ -14,7 +14,6 @@ Welcome to the Quiz Trivia Android App project! This app is designed to challeng
 - Offline support for on-the-go entertainment.
 
 ## Local Machine
-
 Before you get started, ensure you have the following:
 - Android Studio installed on your development machine.
 - An Android device or emulator to run the app.
@@ -22,5 +21,4 @@ Before you get started, ensure you have the following:
 - With all the above you are good to go!
 
 ## Installation
-
 1. Clone this repository to your local machine:
