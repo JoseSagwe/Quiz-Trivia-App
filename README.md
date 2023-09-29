@@ -14,8 +14,6 @@ Welcome to the Quiz Trivia Android App project! This app is designed to challeng
 - Detailed explanations for correct answers.
 - Offline support for on-the-go entertainment.
 
-
-
 ## Local Machine
 Before you get started, ensure you have the following:
 - Android Studio installed on your development machine.
