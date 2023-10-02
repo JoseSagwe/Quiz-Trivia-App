@@ -20,7 +20,5 @@ Before you get started, ensure you have the following:
 - An Android device or emulator to run the app.
 - JDK
 - With all the above you are good to go!
-
-
 ## Installation
 1. Clone this repository to your local machine:
