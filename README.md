@@ -1,6 +1,8 @@
 # Quiz Trivia Android App
 ![Screenshot_20230902-163515](https://github.com/JoseSagwe/Quiz-Trivia-App/assets/110198843/9e5bfbc3-245d-4bc7-9393-33b4e25679fa)
 
+
+
 ## Introduction
 
 
